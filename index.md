@@ -14,3 +14,6 @@ For the first milestone, our goal wast to create the basic pages and components 
 <img src="images/StudyMatchsAddSession.PNG">
   <img src="images/StudyMatchsLogoWithDescription.PNG">
   <img src="images/StudyMatchsSchedule.PNG">
+  <img src="images/Screen Shot 2019-11-20 at 6.36.07 PM.png">
+  <img src="images/list.PNG">
+  <img src="images/add.PNG">
