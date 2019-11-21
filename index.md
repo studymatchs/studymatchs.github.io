@@ -11,8 +11,6 @@ Studymatchs is a website with the goal to create study groups at University of H
 
 For the first milestone, our goal wast to create the basic pages and components needed to operate the site.
 
-<div class="ui large rounded images">
-  <img class="ui image" src="../images/StudyMatchsAddSession.PNG">
-  <img class="ui image" src="../images/StudyMatchsLogoWithDescription.PNG">
-  <img class="ui image" src="../images/StudyMatchsSchedule.PNG">
-</div>
+<img src="images/StudyMatchsAddSession.PNG">
+  <img src="images/StudyMatchsLogoWithDescription.PNG">
+  <img src="images/StudyMatchsSchedule.PNG">
