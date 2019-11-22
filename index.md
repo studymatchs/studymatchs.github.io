@@ -1,6 +1,6 @@
 <img src="images/StudyMatchsLogoWithDescription.PNG">
 
-# StudyMatchs UH Manoa
+# [StudyMatchs UH Manoa](https://github.com/studymatchs)
 
 ## Overview 
 
