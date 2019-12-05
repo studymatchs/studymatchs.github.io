@@ -45,8 +45,8 @@ The schedule page was created by Keanu. The main purpose of this site is to be a
 
 ## [Milestone 2](https://github.com/studymatchs/StudyMatchs/projects/3)
 
-In the second milestone, we ntend to create backend functionality by creating an appropriate database and operational pages that use said database. With that in mind, By the end of this milestone, users that create accounts should be able to add classes to their profiles, then be automatically added to a list of users that shate the same class. Users should also be able to create schedules and view the profiles of their classmates.
+In the second milestone, we intend to create backend functionality by creating an appropriate database and operational pages that use said database. With that in mind, By the end of this milestone, users that create accounts should be able to add classes to their profiles, then be automatically added to a list of users that shate the same class. Users should also be able to create schedules and view the profiles of their classmates.
 
 ## [Milestone 3](https://github.com/studymatchs/StudyMatchs/projects/4)
 
-*Administrator functionality
+In the third milestone, we intend to implement the administrator capabilities by implementing admin functions, such as deleting and editing other users and their data. Our main goals are to fully implement admin functionality, testing, and finalizing the UI design. By the end of this milestone, admin users should be able to delete users, messages, and study sessions. They should also be able to edit user profiles. 
