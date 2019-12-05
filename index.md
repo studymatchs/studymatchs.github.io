@@ -10,6 +10,10 @@
 * Students in similar classes would be able to scedule study sessions with each other at any future time and date.
 * Students that have already finished a class can volunteer to assist in study sessions.
 * Study sessions can be sceduled at certain locations such as Sinclair Library and Hamilton Library.
+## User Guide
+The first page you will see is the landing page. From here, you will be able to sign up or sign in to the page.
+<img src="images/StudyMatchsLanding.png">
+After signing in/signing up, you will be able to access the other tabs, which allow you to do other things.
 
 ## [Milestone 1](https://github.com/studymatchs/StudyMatchs/projects/2)
 
