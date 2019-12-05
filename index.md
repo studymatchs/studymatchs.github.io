@@ -10,11 +10,20 @@
 * Students in similar classes would be able to scedule study sessions with each other at any future time and date.
 * Students that have already finished a class can volunteer to assist in study sessions.
 * Study sessions can be sceduled at certain locations such as Sinclair Library and Hamilton Library.
+
 ## User Guide
 The first page you will see is the landing page. From here, you will be able to sign up or sign in to the page.
 <img src="images/StudyMatchsLanding.png">
 After signing in/signing up, you will be able to access the other tabs, which allow you to do other things.
+In the Edit Your Profile page, you will be able to change your profile.
+In the You and Others page, you will be able to see other people's profiles. You will also be able to message them.
+In the Schedule page, you will be able to see all the listed events. On the bottom of this page, there is a button that redirects
+you to a page that allows you to add events.
+In the Add Message page, you can add messages.
+In the Edit Message page, you can see a board of all messages.
 
+## Developer Guide
+First, clone the repo onto your account by clicking the 'Use this template' button on the right. Then download the repo onto your Github Desktop. If you haven't downloaded it, you can here.
 ## [Milestone 1](https://github.com/studymatchs/StudyMatchs/projects/2)
 
 For the first milestone, our goal was to create the basic pages and components needed to operate the site. To start, we used the Digits program as a template for the program due to having much of the needed components. From there, Rex edited the landing page and the project's theme to suit the goal.
