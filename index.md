@@ -24,6 +24,12 @@ In the Edit Message page, you can see a board of all messages.
 
 ## Developer Guide
 First, clone the repo onto your account by clicking the 'Use this template' button on the right. Then download the repo onto your Github Desktop. If you haven't downloaded it, you can here.
+After downloading the repo, cd into the studymatchs/app directory. 
+Install the npm dependencies by entering the following commands: 
+  meteor npm install
+You can test to see if your meteor application has been installed correctly by running
+  meteor npm run start
+
 ## [Milestone 1](https://github.com/studymatchs/StudyMatchs/projects/2)
 
 For the first milestone, our goal was to create the basic pages and components needed to operate the site. To start, we used the Digits program as a template for the program due to having much of the needed components. From there, Rex edited the landing page and the project's theme to suit the goal.
