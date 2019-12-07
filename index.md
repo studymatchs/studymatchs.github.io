@@ -23,12 +23,19 @@ In the Add Message page, you can add messages.
 In the Edit Message page, you can see a board of all messages.
 
 ## Developer Guide
-First, clone the repo onto your account by clicking the 'Use this template' button on the right. Then download the repo onto your Github Desktop. If you haven't downloaded it, you can here.
+First, install Meteor using [this site.](https://www.meteor.com/install)
+
+Then, clone the repo onto your account by clicking the 'Use this template' button on the right. Then download the repo onto your Github Desktop. If you haven't downloaded it, you can here.
+
 After downloading the repo, cd into the studymatchs/app directory. 
+
 Install the npm dependencies by entering the following commands: 
   meteor npm install
-You can test to see if your meteor application has been installed correctly by running
+You can test to see if your meteor application has been installed correctly by running:
   meteor npm run start
+and visiting the site at [https://localhost:3000/](https://localhost:3000)
+
+
 
 ## [Milestone 1](https://github.com/studymatchs/StudyMatchs/projects/2)
 
