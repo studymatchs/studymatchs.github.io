@@ -17,23 +17,30 @@ The first page you will see is the landing page. From here, you will be able to 
 After signing in/signing up, you will be able to access the other tabs, which allow you to do other things.
 
 Note: When the user signs up for an account, they only have to make a username and a password for their account. Profile details can be added or modified later.
-<img src="images/UserLandingMkII.png">
+
+<img src="images/UserLandingMkII.PNG">
 When the user logs in, the Landing page is replaced by the User Landing page. The User Landing page has three functions: List classmates in the user’s class, list the homework the user created, and list any study sessions created by any users. While some features are accessible in the User Landing page, there are also dedicated pages for the homework and the study session components.
-<img src="images/Homework.png">
+
+<img src="images/Homework.PNG">
 Under the Homework section, the user can create homework assignments. To create a homework assignment, the user can click the “Add Homework” button and fill out the appropriate information. Other users can and will be able to see these assignments so they can be referenced when making a study session. Assignments listed here can be edited or deleted by the user who created them, but other users can indicate that they can help with the assignment by clicking the handshake button where the edit and delete buttons were.
-<img src="images/ScheduleMkII.png">
+
+<img src="images/ScheduleMkII.PNG">
 A similar system is in the Schedule page. The user creates an event via the “Add Session” button. After filling out the appropriate information, the user’s study session is displayed as a card, which can be modified or deleted by the creator or an admin while other users can click the “I’m going!” button to attend as well. 
-<img src="images/Chat.png">
+
+<img src="images/Chat.PNG">
 There is also a chat page for the sake of quick communication with other users. For faster answers or general communication, it’s recommended to use the chat page. For answers that need to go a little more in-depth, there is a message board for that.
-<img src="images/MessageBoard.png">
+
+<img src="images/MessageBoard.PNG">
 The message board is straightforward. To create a topic, the user can click the “Add Message” button on the toolbar. From there, the user can fill out the appropriate information on the page. After clicking ‘Submit”, their message can be seen on the List Messages page.
 
 The List Messages page has several buttons on the page. Each button pertains to a certain topic. When the user clicks on them, the topic, question, and the various answers are available on the screen.
-<img src="images/Profile.png">
+
+<img src="images/Profile.PNG">
 If a user wants to view their profile, they can simply click on their username in the upper right hand corner. The dropdown menu will, along with the option to log out, display the user’s profile including their name, description, GPA, and more.
 
 To edit it, they can click on the edit icon. A form will appear with the information to edit.
-<img src="images/AddClass.png">
+
+<img src="images/AddClass.PNG">
 To view and change the classes they are in, the user can click on the Show Classes button beneath their profile. A screen will then appear listing the classes that the user is enrolled in.
 
 To drop a class, the user can simply click on the class in the screen to remove themselves from the class.  If they want to add a class, they can type in the class they are in, then hit “Submit”.
