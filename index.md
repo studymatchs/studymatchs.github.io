@@ -81,3 +81,7 @@ In the milestone 2, Jui-Chen modified the show profile page so after the user jo
 ## [Milestone 3](https://github.com/studymatchs/StudyMatchs/projects/4)
 
 In the third milestone, we intend to implement the administrator capabilities by implementing admin functions, such as deleting and editing other users and their data. Our main goals are to fully implement admin functionality, testing, and finalizing the UI design. By the end of this milestone, admin users should be able to delete users, messages, and study sessions. They should also be able to edit user profiles. 
+
+<img src="images/adminDelete.png">
+<img src="images/adminSwal.png">
+In milestone 3, Jui-Chen added a admin funtion which allow admin to delete user's profile.
