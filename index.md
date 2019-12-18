@@ -15,12 +15,29 @@
 The first page you will see is the landing page. From here, you will be able to sign up or sign in to the page.
 <img src="images/StudyMatchsLanding.png">
 After signing in/signing up, you will be able to access the other tabs, which allow you to do other things.
-In the Edit Your Profile page, you will be able to change your profile.
-In the You and Others page, you will be able to see other people's profiles. You will also be able to message them.
-In the Schedule page, you will be able to see all the listed events. On the bottom of this page, there is a button that redirects
-you to a page that allows you to add events.
-In the Add Message page, you can add messages.
-In the Edit Message page, you can see a board of all messages.
+
+Note: When the user signs up for an account, they only have to make a username and a password for their account. Profile details can be added or modified later.
+
+When the user logs in, the Landing page is replaced by the User Landing page. The User Landing page has three functions: List classmates in the user’s class, list the homework the user created, and list any study sessions created by any users. While some features are accessible in the User Landing page, there are also dedicated pages for the homework and the study session components.
+
+Under the Homework section, the user can create homework assignments. To create a homework assignment, the user can click the “Add Homework” button and fill out the appropriate information. Other users can and will be able to see these assignments so they can be referenced when making a study session. Assignments listed here can be edited or deleted by the user who created them, but other users can indicate that they can help with the assignment by clicking the handshake button where the edit and delete buttons were.
+
+A similar system is in the Schedule page. The user creates an event via the “Add Session” button. After filling out the appropriate information, the user’s study session is displayed as a card, which can be modified or deleted by the creator or an admin while other users can click the “I’m going!” button to attend as well. 
+
+There is also a chat page for the sake of quick communication with other users. For faster answers or general communication, it’s recommended to use the chat page. For answers that need to go a little more in-depth, there is a message board for that.
+
+The message board is straightforward. To create a topic, the user can click the “Add Message” button on the toolbar. From there, the user can fill out the appropriate information on the page. After clicking ‘Submit”, their message can be seen on the List Messages page.
+
+The List Messages page has several buttons on the page. Each button pertains to a certain topic. When the user clicks on them, the topic, question, and the various answers are available on the screen.
+
+If a user wants to view their profile, they can simply click on their username in the upper right hand corner. The dropdown menu will, along with the option to log out, display the user’s profile including their name, description, GPA, and more.
+
+To edit it, they can click on the edit icon. A form will appear with the information to edit.
+
+To view and change the classes they are in, the user can click on the Show Classes button beneath their profile. A screen will then appear listing the classes that the user is enrolled in.
+
+To drop a class, the user can simply click on the class in the screen to remove themselves from the class.  If they want to add a class, they can type in the class they are in, then hit “Submit”.
+
 
 ## Developer Guide
 First, make sure you install Meteor using [this site.](https://www.meteor.com/install)
@@ -80,7 +97,7 @@ In the milestone 2, Jui-Chen modified the show profile page so after the user jo
 
 ## [Milestone 3](https://github.com/studymatchs/StudyMatchs/projects/4)
 
-In the third milestone, we intend to implement the administrator capabilities by implementing admin functions, such as deleting and editing other users and their data. Our main goals are to fully implement admin functionality, testing, and finalizing the UI design. By the end of this milestone, admin users should be able to delete users, messages, and study sessions. They should also be able to edit user profiles. 
+In the third milestone, we intended to implement the administrator capabilities by implementing admin functions, such as deleting and editing other users and their data. Our main goals are to fully implement admin functionality, testing, and finalizing the UI design. By the end of this milestone, admin users should be able to delete users, messages, and study sessions. They should also be able to edit user profiles. 
 
 <img src="images/adminDelete.png">
 <img src="images/adminSwal.png">
