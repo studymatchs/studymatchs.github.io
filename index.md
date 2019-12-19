@@ -118,10 +118,16 @@ Keanu updated the Schedule page for more functionality, and also added to the UI
 
 ## User Feedback
 "WOW! I didn't know Keanu was smart enough to make this!" -Joey T.
+
 "As a valued customer, I'm very satisfied." -Karen A.
+
 "You can use this site for more than study groups. Maybe host Smash tournaments too" -Vance O.
+
 "I don't really like the shade of green used. Also you could combine some pages together to make the experience more fluid. Good website regardless" -Utu B.
+
 "I really like this website, I wish there were something like this so I could get someone to help me with writing my essays." -Liah S.
+
 "The green you guys used reminds me of texting an android user with my iPhone." -Jonah S.
+
 "Definitely will be using this site to hook up with some ABGs" -Nalu C.
 
