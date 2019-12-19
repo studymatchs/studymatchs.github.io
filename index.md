@@ -24,8 +24,9 @@ When the user logs in, the Landing page is replaced by the User Landing page. Th
 <img src="images/Homework.PNG">
 Under the Homework section, the user can create homework assignments. To create a homework assignment, the user can click the “Add Homework” button and fill out the appropriate information. Other users can and will be able to see these assignments so they can be referenced when making a study session. Assignments listed here can be edited or deleted by the user who created them, but other users can indicate that they can help with the assignment by clicking the handshake button where the edit and delete buttons were.
 
-<img src="images/ScheduleMkII.PNG">
-A similar system is in the Schedule page. The user creates an event via the “Add Session” button. After filling out the appropriate information, the user’s study session is displayed as a card, which can be modified or deleted by the creator or an admin while other users can click the “I’m going!” button to attend as well. 
+<img src="images/Schedule.PNG">
+<img src="images/ScheduleAdd.PNG">
+A similar system is in the Schedule page. The user creates an event via the “Add Session” button. After filling out the appropriate information, the user’s study session is displayed as a card, which can be modified or deleted by the creator or an admin while other users can click the “I’m going!” button to attend as well. Users can also edit and delete their posts.
 
 <img src="images/Chat.PNG">
 There is also a chat page for the sake of quick communication with other users. For faster answers or general communication, it’s recommended to use the chat page. For answers that need to go a little more in-depth, there is a message board for that.
@@ -95,11 +96,10 @@ The schedule page was created by Keanu. The main purpose of this site is to be a
 
 ## [Milestone 2](https://github.com/studymatchs/StudyMatchs/projects/3)
 
-In the second milestone, we intend to create backend functionality by creating an appropriate database and operational pages that use said database. With that in mind, By the end of this milestone, users that create accounts should be able to add classes to their profiles, then be automatically added to a list of users that shate the same class. Users should also be able to create schedules and view the profiles of their classmates.
+In the second milestone, we intended to create backend functionality by creating an appropriate database and operational pages that use said database. With that in mind, By the end of this milestone, users that create accounts should be able to add classes to their profiles, then be automatically added to a list of users that shate the same class. Users should also be able to create schedules and view the profiles of their classmates.
 
 <img src="images/showprofile.png">
 In the milestone 2, Jui-Chen modified the show profile page so after the user join this website, user will be able to see other usere.
-
 
 
 ## [Milestone 3](https://github.com/studymatchs/StudyMatchs/projects/4)
@@ -114,7 +114,14 @@ In Milestone 3, Rex implemented a homework and updated the database so it would 
 
 James added more functionality to the message board, including the ability for an admin to delete it.
 
-Keanu updated the Schedule page for more functionality.
+Keanu updated the Schedule page for more functionality, and also added to the UI.
 
 ## User Feedback
-Unfortunately, at the time of this posting, no user feedback has been received.
+"WOW! I didn't know Keanu was smart enough to make this!" -Joey T.
+"As a valued customer, I'm very satisfied." -Karen A.
+"You can use this site for more than study groups. Maybe host Smash tournaments too" -Vance O.
+"I don't really like the shade of green used. Also you could combine some pages together to make the experience more fluid. Good website regardless" -Utu B.
+"I really like this website, I wish there were something like this so I could get someone to help me with writing my essays." -Liah S.
+"The green you guys used reminds me of texting an android user with my iPhone." -Jonah S.
+"Definitely will be using this site to hook up with some ABGs" -Nalu C.
+
