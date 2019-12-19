@@ -129,5 +129,5 @@ Keanu updated the Schedule page for more functionality, and also added to the UI
 
 "The green you guys used reminds me of texting an android user with my iPhone." -Jonah S.
 
-"Definitely will be using this site to hook up with some ABGs" -Nalu C.
+"Definitely will be using this to hook up with some ABGs" -Nalu C.
 
